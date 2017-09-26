@@ -17,7 +17,7 @@ import time
 # Create application tokens
 # I need to generate these with Facebook API Graph (how to automate...?)_
 app_id = "1956308844643415"
-app_secret = "cb24a3f5690e57dfbb2f39136e0147b3"
+app_secret = "xxxxxx"
 
 access_token = app_id + "|" + app_secret
 
